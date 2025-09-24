@@ -52,7 +52,7 @@ A sophisticated AI-powered shopping assistant that combines Retrieval-Augmented 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/harishmogili21/Regional-Shopping-AI.git
+   git clone https:https://github.com/sailusha-25/Regional-shopping_AI.git
    cd Regional-Shopping-AI
    ```
 
@@ -174,3 +174,4 @@ For support, please open an issue on GitHub or contact the development team.
 ---
 
 **Regional Shopping AI** - Transforming the shopping experience with artificial intelligence.
+
